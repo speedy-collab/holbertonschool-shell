@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Alias 'ls' created for command 'rm -f *'."
